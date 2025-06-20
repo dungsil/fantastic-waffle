@@ -1,0 +1,14 @@
+### Astro ###
+.astro/
+build/
+
+### Node.js ###
+node_modules/
+.pnpm-store/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Claude Code ###
+.claude/
